@@ -1,0 +1,22 @@
+-queue is a linear data structure
+-queue is a abstract data type
+-queue follows FIFO i.e. first in first out
+-2 rules
+	-insertion -> In queue insertion can be perform from one end, name of that end is Rare/Tail. 
+	
+	-deletion -> In queue deletion can be perform from one end, name of that end is Front/Head.
+
+-technical name for insertion in queue is enque.
+-technical name for deletion in queue is dequeue.
+
+operations :
+	-enqueue()
+	-dequeue()
+	-front()/peek()
+	-isFull()
+	-isEmpty()
+
+Application :
+	-procssor / sheduler
+	-customer care
+	
